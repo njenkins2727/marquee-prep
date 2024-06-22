@@ -49,6 +49,7 @@ input {
   width: 100%;
   box-sizing: border-box;
   font-size: 1em;
+  background-color: #f3efe5;
 }
 
 input:focus {
